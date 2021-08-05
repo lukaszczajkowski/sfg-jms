@@ -19,6 +19,6 @@ public class HelloMessageListener {
         System.out.println("I got a message!!!");
         System.out.println(helloWorldMessage);
 
-        throw new RuntimeException("foo");
+        //throw new RuntimeException("foo");
     }
 }
